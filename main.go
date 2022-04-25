@@ -1,5 +1,6 @@
 package main
 
+// need go on your environment to check commit tests
 import (
 	"embed"
 	"encoding/json"
